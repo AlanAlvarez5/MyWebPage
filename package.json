@@ -1,0 +1,23 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "una pagina web de contenido estatico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanAlvarez5/MyWebPage.git"
+  },
+  "author": "alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanAlvarez5/MyWebPage/issues"
+  },
+  "homepage": "https://github.com/AlanAlvarez5/MyWebPage#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
